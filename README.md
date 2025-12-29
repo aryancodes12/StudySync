@@ -1,4 +1,4 @@
-# 📚 StudySync - AI-Powered Timetable & Study Tracker
+## 📚 StudySync - Rule-Based Timetable & Study Tracker
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)](https://github.com)
 
-[Features](#features) • [Screenshots](#screenshots) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Contributing](#contributing)
+
 
 </div>
 
@@ -491,6 +491,5 @@ Your support helps improve StudySync for everyone!
 
 **Made with ❤️ using Flutter**
 
-[Back to Top](#studysync---ai-powered-timetable--study-tracker)
 
 </div>
